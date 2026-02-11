@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+</head>
+<body style="font-family: Arial; margin: 20px;">
+
+    <h1 style="text-align:center;">My Resume</h1>
+
+    <!-- Profile Section -->
+    <div style="border:1px solid #ccc; padding:10px;">
+        <img src="profile.jpg" alt="Profile Image" width="120" height="120" 
+             style="float:left; margin-right:20px; border-radius:10px;">
+        
+        <p><b>Name:</b> John Doe</p>
+        <p><b>Phone:</b> +91 9876543210</p>
+        <p><b>Email:</b> johndoe@gmail.com</p>
+        <p><b>Address:</b> Delhi, India</p>
+
+        <div style="clear:both;"></div>
+    </div>
+
+    <hr>
+
+    <!-- Education -->
+    <h2>Education</h2>
+    <table border="1" cellspacing="0" cellpadding="5" style="width:100%;">
+        <tr style="background:#eee;">
+            <th>Degree</th>
+            <th>Institute</th>
+            <th>Year</th>
+            <th>Percentage</th>
+        </tr>
+        <tr>
+            <td>B.Tech (CSE)</td>
+            <td>ABC Institute</td>
+            <td>2024</td>
+            <td>85%</td>
+        </tr>
+        <tr>
+            <td>12th Grade</td>
+            <td>XYZ School</td>
+            <td>2021</td>
+            <td>90%</td>
+        </tr>
+        <tr>
+            <td>10th Grade</td>
+            <td>XYZ School</td>
+            <td>2019</td>
+            <td>92%</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <!-- Skills -->
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML (Basic)</li>
+        <li>CSS (Basic)</li>
+        <li>C Programming</li>
+        <li>Teamwork</li>
+    </ul>
+
+    <hr>
+
+    <!-- Work Experience -->
+    <h2>Work Experience</h2>
+    <p>No work experience yet. (Fresher)</p>
+
+    <hr>
+
+    <!-- Projects -->
+    <h2>Projects</h2>
+    <ul>
+        <li>Created a simple personal resume webpage using HTML.</li>
+        <li>Made a calculator program in C.</li>
+    </ul>
+
+    <hr>
+
+    <!-- Achievements -->
+    <h2>Achievements</h2>
+    <ul>
+        <li>School topper in Class 10</li>
+        <li>Won 2nd prize in science exhibition</li>
+    </ul>
+
+    <hr>
+
+    <!-- Languages -->
+    <h2>Languages</h2>
+    <ul>
+        <li>English</li>
+        <li>Hindi</li>
+    </ul>
+
+</body>
+</html>
