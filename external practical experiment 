@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<html>
+<head>
+    <title>Restaurant website page</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background-color:neon;
+        }
+        h1 {
+            color: darkred;
+        }
+        ul {
+            list-style-type: square;
+            text-align: left;
+            display: inline-block;
+        }
+        img {
+            width: 150px;
+            height: 120px;
+            margin: 5px;
+            border-radius: 10px;
+        }
+      
+    </style>
+</head>
+<body>
+
+    <h1>Food Corner</h1>
+
+    <h2>Menu</h2>
+    <ul>
+        <li>Starters
+            <ul>
+                <li>Soup - ₹100</li>
+                <li>Paneer Tikka - ₹250</li>
+            </ul>
+        </li>
+        <li>Main Course
+            <ul>
+                <li>Biryani - ₹300</li>
+                <li>Butter Chicken - ₹400</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Gallery</h2>
+    <img src="food1.jpg" alt="veg biryani">
+    <img src="food2.jpg" alt="butter chicken">
+
+    <br><hr>
+
+    <a background colour:"red, color:white, padding:5px, href="reservation.html">Reserve Table</a>
+
+</body>
+</html>
